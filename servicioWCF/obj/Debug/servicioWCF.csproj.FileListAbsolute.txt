@@ -1,0 +1,7 @@
+C:\Users\57316\Downloads\Prueba-Desarrollador-Nicolas-Rey-main\Prueba-Desarrollador-Nicolas-Rey-main\servicioWCF\bin\servicioWCF.dll.config
+C:\Users\57316\Downloads\Prueba-Desarrollador-Nicolas-Rey-main\Prueba-Desarrollador-Nicolas-Rey-main\servicioWCF\bin\servicioWCF.dll
+C:\Users\57316\Downloads\Prueba-Desarrollador-Nicolas-Rey-main\Prueba-Desarrollador-Nicolas-Rey-main\servicioWCF\bin\servicioWCF.pdb
+C:\Users\57316\Downloads\Prueba-Desarrollador-Nicolas-Rey-main\Prueba-Desarrollador-Nicolas-Rey-main\servicioWCF\obj\Debug\servicioWCF.csproj.AssemblyReference.cache
+C:\Users\57316\Downloads\Prueba-Desarrollador-Nicolas-Rey-main\Prueba-Desarrollador-Nicolas-Rey-main\servicioWCF\obj\Debug\servicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\57316\Downloads\Prueba-Desarrollador-Nicolas-Rey-main\Prueba-Desarrollador-Nicolas-Rey-main\servicioWCF\obj\Debug\servicioWCF.dll
+C:\Users\57316\Downloads\Prueba-Desarrollador-Nicolas-Rey-main\Prueba-Desarrollador-Nicolas-Rey-main\servicioWCF\obj\Debug\servicioWCF.pdb
