@@ -17,8 +17,8 @@ Marcar la opción proyectos de inicio multiples.
 
 En la columna Acción, seleccionar Iniciar para ambos proyectos:
 
-servicioWCF
-capaPresentacion
+/servicioWCF
+/capaPresentacion
 
 Hacer clic en Aplicar y posteriormente en Aceptar.
 
