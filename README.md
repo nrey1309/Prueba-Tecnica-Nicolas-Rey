@@ -13,7 +13,7 @@ En el Explorador de soluciones, hacer clic derecho sobre la solución.
 
 Seleccionar la opción Configurar proyectos de inicio.
 
-Marcar la opción Varios proyectos de inicio.
+Marcar la opción proyectos de inicio multiples.
 
 En la columna Acción, seleccionar Iniciar para ambos proyectos:
 
